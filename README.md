@@ -16,4 +16,5 @@
 
 #### Checkout file to original or origin/master
 `git checkout origin/master -- path/to/file`
+
 ------
