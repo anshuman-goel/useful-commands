@@ -1,10 +1,16 @@
 # Useful Commands irrespective of Platform
 
-#### Git revert
+### Git
+#### Revert
 `git revert <commit hash>`
 
-#### Git Checkout to remote branch
+#### Checkout to remote branch
 `git checkout -t origin/<branch name>`
 
-#### Git create a new branch and switch to it
+#### Create a new branch and switch to it
 `git checkout -b <branch name>`
+
+#### Check remote url for repo
+`git remote -v`
+
+------------------------------------------------------------------------------------------------------------------------------------------
