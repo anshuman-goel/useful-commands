@@ -14,4 +14,6 @@
 #### Check remote url for repo
 `git remote -v`
 
+#### Checkout file to original or origin/master
+`git checkout origin/master -- path/to/file`
 ------
