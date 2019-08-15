@@ -17,6 +17,12 @@
 #### Checkout file to original or origin/master
 `git checkout origin/master -- path/to/file`
 
+#### Delete a remote branch
+`git push origin --delete <branch name>`
+
+#### Delete a local branch
+`git branch -f -d <branch names>`
+
 ------
 ### Python
 #### Install pip package
