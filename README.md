@@ -23,6 +23,9 @@
 #### Delete a local branch
 `git branch -f -d <branch names>`
 
+#### error: some local refs could not be updated
+`git remote prune origin`
+
 ------
 ### Python
 #### Install pip package
