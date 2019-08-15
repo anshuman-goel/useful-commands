@@ -18,3 +18,8 @@
 `git checkout origin/master -- path/to/file`
 
 ------
+### Python
+#### Install pip package
+`pip install <package name>`
+
+------
