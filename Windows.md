@@ -16,3 +16,19 @@
 
 #### Disable Page Heap
 `gflags /p /disable <binary name> /full`
+
+---
+## Azure Functions
+#### Specifying Connection string in `local.settings.json`
+```
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true;",
+    "AzureWebJobsDashboard": ""
+  },
+  "ConnectionStrings": {
+    "MyConnectionString": "[YourConnectionStringHere]"
+  }
+}
+```
