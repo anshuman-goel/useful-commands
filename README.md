@@ -28,7 +28,7 @@
 
 #### Branch in which commit exists remotely
 `git branch --contains <commit hash> -r`
-_(Do remember to pull latest changes)_
+
 ------
 ### Python
 #### Install pip package
