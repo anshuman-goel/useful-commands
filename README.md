@@ -27,6 +27,7 @@
 `git remote prune origin`
 
 #### Branch in which commit exists remotely (`-r`)
+
 `git branch --contains <commit hash> -r`
 _(Do remember to pull latest changes)_
 ------
