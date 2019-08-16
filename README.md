@@ -28,6 +28,7 @@
 
 #### Branch in which commit exists remotely (`-r`)
 `git branch --contains <commit hash> -r`
+
 *(Do remember to pull latest changes)*
 
 ------
