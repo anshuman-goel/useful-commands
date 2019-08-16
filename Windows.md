@@ -25,7 +25,7 @@
   "IsEncrypted": false,
   "Values": {
     "AzureWebJobsStorage": "UseDevelopmentStorage=true;",
-    "AzureWebJobsDashboard": ""
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet"
   },
   "ConnectionStrings": {
     "MyConnectionString": "[YourConnectionStringHere]"
