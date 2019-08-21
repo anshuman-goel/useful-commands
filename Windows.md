@@ -3,6 +3,8 @@
 #### Open File Explorer from Command Line
 `start .`
 
+#### Shortcut to open Windows Explorer
+`Windows Key + E`
 ------
 ## Application Verifier
 #### Enabling various tracking
