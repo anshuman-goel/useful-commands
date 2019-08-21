@@ -31,6 +31,15 @@
 
 *(Do remember to pull latest changes)*
 
+#### Removing untracked files from Git working Tree
+```
+# Print out the list of files which will be removed (dry run)
+git clean -n
+
+# Delete the files from the repository
+git clean -f
+```
+
 ------
 ### Python
 #### Install pip package
