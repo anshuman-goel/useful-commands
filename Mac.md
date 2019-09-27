@@ -3,3 +3,6 @@
 
 #### Close the Window
 `Command + W`
+
+#### Lock the System
+`Ctrl + Command + Q`
