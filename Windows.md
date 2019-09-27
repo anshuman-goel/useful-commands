@@ -38,3 +38,8 @@
 ## Windbg
 #### Ignore First Chance ASan Exceptions
 `sxd av`
+
+---
+## Batch Script
+#### Comment
+Use `rem` or `REM` before the command
