@@ -37,7 +37,7 @@
 git clean -n
 
 # Delete the files from the repository
-git clean -f
+git clean -fd
 ```
 
 ------
