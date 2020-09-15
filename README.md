@@ -11,6 +11,12 @@
 #### Create a new branch and switch to it
 `git checkout -b <branch name>`
 
+#### Pushing a new branch created locally
+`git push --set-upstream origin <branch name>`
+
+#### Pushing an existing local and remote branch
+`git push`
+
 #### Check remote url for repo
 `git remote -v`
 
