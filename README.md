@@ -46,6 +46,14 @@ git clean -n
 git clean -fd
 ```
 
+#### Updating forked repo with upstream
+```
+git remote add upstream https://github.com/microsoft/onefuzz
+git fetch upstream
+git checkout main
+git rebase upstream/main
+```
+
 ------
 ### Python
 #### Install pip package
