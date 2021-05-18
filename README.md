@@ -1,3 +1,4 @@
+[TOC]
 # Useful Commands irrespective of Platform
 
 ------
