@@ -1,4 +1,3 @@
-[__TOC__]
 # Useful Commands irrespective of Platform
 
 ------
