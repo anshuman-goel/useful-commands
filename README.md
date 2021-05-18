@@ -1,4 +1,4 @@
-[[_TOC_]]
+[[TOC]]
 # Useful Commands irrespective of Platform
 
 ------
