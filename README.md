@@ -64,6 +64,9 @@ git checkout main
 git rebase upstream/main
 ```
 
+#### Remove last commit
+`git reset HEAD^`
+
 ------
 ### Python
 #### Install pip package
