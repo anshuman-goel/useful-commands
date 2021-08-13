@@ -2,6 +2,9 @@
 
 ------
 ### Git
+#### Clone a Repository
+`git clone <repository_url>`
+
 #### Revert a commit
 `git revert <commit hash>`
 
