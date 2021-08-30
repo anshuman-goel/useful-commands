@@ -2,6 +2,12 @@
 
 ------
 ### Git
+#### Add changes to staging area
+`git add <file name>`
+
+#### Commit the changes
+`git commit -m <commit message>`
+
 #### Clone a Repository
 `git clone <repository_url>`
 
