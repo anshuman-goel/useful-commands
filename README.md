@@ -32,6 +32,9 @@
 #### Checkout file to original or origin/master
 `git checkout origin/master -- path/to/file`
 
+#### Git hard reset to a remote branch
+`git reset --hard origin/<branch name>`
+
 #### Delete a remote branch
 `git push origin --delete <branch name>`
 
