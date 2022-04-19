@@ -39,6 +39,9 @@
 #### Ignore First Chance ASan Exceptions
 `sxd av`
 
+#### Clear screen
+`.cls`
+
 ---
 ## Batch Script
 #### Comment
